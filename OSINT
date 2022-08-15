@@ -56,3 +56,77 @@ TOOlS OSINT + link
     Port Scanner - rang3r - https://github.com/floriankunushevci/rang3r 
 
     Breacher - https://github.com/s0md3v/Breacher
+
+
+OSINT VIDEO TURTORIAL
+
+    Video Level 1 https://drive.google.com/file/d/1IQLhsTRTn6fhQbu1nf_w82GVqVnrKWxg/view?usp=sharing
+    Open-Source Intelligence Level 1
+    00:00:00 1. Introduction
+    00:01:57 2. What is OSINT and who is OSINT for
+    00:12:31 3. Disclaimer
+    00:13:30 1. What will you need
+    00:15:44 2. Virtualization
+    00:21:05 3. Installing CSI Linux
+    00:32:38 4. Linux Terminal basics
+    00:37:32 5. Taking snapshots in VB for CSI Linux
+    00:42:51 1. Taking notes
+    00:52:55 2. Bonus How to use Cherrytree templates
+    00:57:54 1. Keeping your data safe
+    01:08:47 2. Onionshare
+    01:13:12 1. Business searches
+    01:17:08 2. Resume finders
+    01:19:38 1. Google Advanced Operators
+    01:27:09 2. Google alerts
+    01:29:16 3. Google Maps
+    01:33:40 4. Google Images
+    01:35:53 1. Reverse email
+    01:46:46 2. Reverse Phone
+    
+    Video Level 2 https://drive.google.com/file/d/1cGHNO7LsVT7HPfSTSiPN1lLnJGHB8B0H/view?usp=sharing
+    Open-Source Intelligence Level 1
+    00:00:00 3. Other reverse image searches
+    00:03:28 4. Bonus Reverse phone US and Europe
+    00:06:42 1. Spiderfoot
+    00:16:08 2. HTTrack
+    00:23:30 3. Updated Metagoofil
+    00:30:05 4. Webpage Cache
+    00:34:40 5. OSINT Framework
+    00:39:36 6. Bonus Euro OSINT Site
+    00:45:22 1. Black Book Online
+    00:50:17 2. xlek (formally Cubib)
+    00:53:46 1. The darkweb
+    00:59:44 2. Tor
+    01:12:07 1. Sudo
+    01:19:39 1. Filtering fake news with SurfSafe
+    01:25:06 2. Image Capturing
+    01:31:57 3. User agent switcher
+    01:36:28 1. have i been pwned
+    
+    Video Level 3 https://drive.google.com/file/d/1h5kNeAt1tMPRtiRuLBTCs0hnNtnyDdQY/view?usp=sharing
+    Open-Source Intelligence Level 1
+    00:00:00 2. Dehashed (Updated 2219)
+    00:07:09 1. Bypassing Youtube login Bonus
+    00:09:07 2. Hooktube
+    00:11:51 1. Twitter
+    00:16:26 2. webmii
+    00:19:48 3. Setting up a burner Facebook account with 30 minute mail
+    00:23:46 4. Text for Free
+    00:27:21 5. Facebook ID
+    00:29:54 6. FB Down
+    00:31:37 1. Maltego
+    00:43:07 2. Bitcoins (Bonus)
+    00:55:10 1. OSIRT
+    01:03:41 2. Exfiltool
+    01:07:05 3. Geolocation
+    01:13:10 4. Family trees
+    01:17:23 5. Bonus Canary Tokens
+    01:23:47 1. It's test time!
+    01:24:38 2. What's this building
+    01:25:09 4. Finding a person    
+    01:26:08 6. Phone number OSINT
+    01:26:37 1. Building a OISNT VM OS from scratch intro
+    01:29:26 2. Loading Mint
+    01:39:24 3. Adding programs from the repository
+    01:42:49 4. Programs from the repository
+    01:53:55 5. Browser extentions
