@@ -1,19 +1,58 @@
-Join us on Discord here: https://www.tracelabs.org/discord
-
-OSINT Resources for Contestants
+OSINT Resources Link
 
     https://osintcurio.us/2020/01/16/introduction-to-osint-video/
+    
     https://osintcurio.us/10-minute-tips/
+    
     https://osintframework.com/
+    
     https://www.i-intelligence.eu/wp-content/uploads/2018/06/OSINT_Handbook_June-2018_Final.pdf
+    
     https://blog.appsecco.com/open-source-intelligence-gathering-201-covering-12-additional-techniques-b76417b5a544
+    
     https://github.com/jivoi/awesome-osint
+    
     https://iaca-darkweb-tools.com
+    
     https://www.websleuths.com/
+    
     Have I Been Pwned:http://www.haveibeenpwned.com/
+    
     Exif VieWer: http://exif.regex.info/exif.cgi
+    
     Shodan: http://www.shodanhq.com/
+    
     Wigle:https://wigle.net/gps/gps/main/query/
+    
     Joe Gray People OSINT Workshop:https://www.youtube.com/watch?v=EePeB9A2ZAk
+    
     OSINT Resources from OhShint_:https://github.com/OhShINT
+    
     OSINT Tools from Intel Techniques:https://www.inteltechniques.com/tools/
+    
+TOOlS OSINT + link
+
+    
+Network Map (nmap) - https://github.com/nmap/nmap
+
+Dracnmap - https://github.com/Screetsec/Dracnmap
+
+Xerosploit - https://github.com/LionSec/xerosploit
+
+RED HAWK (All In One Scanning) - https://github.com/Tuhinshubhra/RED_HAWK 
+
+ReconSpider(For All Scaning) - https://github.com/bhavsec/reconspider 
+
+IsItDown (Check Website Down/Up)  - https://www.isitdownrightnow.com/
+
+Infoga - Email OSINT - https://github.com/m4ll0k/Infoga
+
+ReconDog - https://github.com/s0md3v/ReconDog 
+
+Striker - https://github.com/s0md3v/Striker SecretFinder (like API & etc) - https://github.com/m4ll0k/SecretFinder 
+
+Find Info Using Shodan - https://github.com/m4ll0k/Shodanfy.py 
+
+Port Scanner - rang3r - https://github.com/floriankunushevci/rang3r 
+
+Breacher - https://github.com/s0md3v/Breacher
